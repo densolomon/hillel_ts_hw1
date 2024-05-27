@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/densolomon/hillel_ts_hw1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/densolomon/hillel_ts_hw1/issues"
+  },
+  "homepage": "https://github.com/densolomon/hillel_ts_hw1#readme"
 }
